@@ -1,7 +1,7 @@
-e97ff1085015ca0154dae7660d5625e3 *DESCRIPTION
+fbaa433b47213209b1fab4f7028b3a4e *DESCRIPTION
 ef3d9f056adaa322680184035912700f *LICENSE
-60eba78c2b98e3de7831ffc8e1e54dc0 *NAMESPACE
-40e91061708d6ba775322e78a9a9923e *NEWS.md
+f6a6bf296451fdf296716187f9af39b1 *NAMESPACE
+ca7d26bec77d8db4522e94da4c2e25f3 *NEWS.md
 6cfa1bf51cb68cd44c43509935b77995 *R/add_cell_coloring.R
 1013211bce7784128d964214f8f80c3c *R/add_density_coloring.R
 9fb7dd9cd38b11c30754faa46d0d25b4 *R/add_milestone_coloring.R
@@ -13,7 +13,7 @@ ef3d9f056adaa322680184035912700f *LICENSE
 aa67f267efdd2caa8837fb7901415d2d *R/milestone_palette.R
 bf886b41f7df75a6198753bc43b97a97 *R/mix_colors.R
 df7a3a31d2428ee26bccec27b7c08627 *R/optimize_order.R
-3a037610553d72e742301b36c611d68d *R/package.R
+8e7c87c3f3895343c4a32c2b83cae4f5 *R/package.R
 f8c79038bae142f46d7a256447acc970 *R/plot_dendro.R
 cc821471907078230949fb3dda58cbbd *R/plot_dimred.R
 03ea7a524e4d7ffd5dd06d8f8ab87708 *R/plot_edge_flips.R
@@ -23,7 +23,7 @@ a77a47451beebca0fc766154623d2d91 *R/plot_linearised_comparison.R
 fc80e89da357815e3b52b6d055c26719 *R/plot_onedim.R
 2d6b9d3cfafc51df249781578f8395f6 *R/plot_strip.R
 702ee061e8aa60f4a9f047a4fe96eb46 *R/plot_topology.R
-8d4ab0f7222c13f2590ee0868fe0f664 *R/project_waypoints.R
+f4c53800d019b1609271b4533b8a92f1 *R/project_waypoints.R
 a699457c12d605b54f8c9824aaef6660 *R/theme_clean.R
 7650a1ccd1047b93d2df730c68ec8b58 *build/vignette.rds
 ae4ee2e05289508c0394c649d24cd271 *data/example_bifurcating.rda
@@ -32,7 +32,7 @@ ae4ee2e05289508c0394c649d24cd271 *data/example_bifurcating.rda
 4aa90b06c92a0ee836a5ec924bcc9090 *data/example_tree.rda
 9d8e86979796ce32228e1f1704c0cc31 *inst/doc/plotting-a-toy.R
 a3deab1a43ed36207680680e1db40106 *inst/doc/plotting-a-toy.Rmd
-8f7a6871f8ecb0476013ca769b2b23a8 *inst/doc/plotting-a-toy.html
+1c743743a724663c447c68951230b2e3 *inst/doc/plotting-a-toy.html
 6bb4fd197c6323461f212235454e314b *man/add_cell_coloring.Rd
 b81739131190d29ed61b00898bbae258 *man/add_density_coloring.Rd
 6e42157917983cd67dd5f5dfb63af201 *man/add_milestone_coloring.Rd
