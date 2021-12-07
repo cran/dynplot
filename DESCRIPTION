@@ -1,7 +1,7 @@
 Package: dynplot
 Type: Package
 Title: Visualising Single-Cell Trajectories
-Version: 1.1.1
+Version: 1.1.2
 Authors@R: 
     c(person(given = "Robrecht",
              family = "Cannoodt",
@@ -41,10 +41,10 @@ Collate: 'milestone_palette.R' 'add_milestone_coloring.R'
         'plot_heatmap.R' 'plot_linearised_comparison.R' 'plot_onedim.R'
         'plot_strip.R' 'plot_topology.R' 'theme_clean.R'
 NeedsCompilation: no
-Packaged: 2021-06-27 16:36:50 UTC; rcannood
+Packaged: 2021-12-07 18:43:16 UTC; rcannood
 Author: Robrecht Cannoodt [aut, cre, cph]
     (<https://orcid.org/0000-0003-3641-729X>),
   Wouter Saelens [aut] (<https://orcid.org/0000-0002-7114-6248>)
 Maintainer: Robrecht Cannoodt <rcannood@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-06-28 06:30:02 UTC
+Date/Publication: 2021-12-07 19:00:02 UTC

@@ -1,4 +1,4 @@
-fbaa433b47213209b1fab4f7028b3a4e *DESCRIPTION
+92a638f67e2d9e79616497105e3123d4 *DESCRIPTION
 ef3d9f056adaa322680184035912700f *LICENSE
 f6a6bf296451fdf296716187f9af39b1 *NAMESPACE
 ca7d26bec77d8db4522e94da4c2e25f3 *NEWS.md
@@ -20,7 +20,7 @@ cc821471907078230949fb3dda58cbbd *R/plot_dimred.R
 50607262f6d12acd8ed4d4172ed4ad27 *R/plot_graph.R
 82dccf80f2b8da3a572a67281efacfbd *R/plot_heatmap.R
 a77a47451beebca0fc766154623d2d91 *R/plot_linearised_comparison.R
-fc80e89da357815e3b52b6d055c26719 *R/plot_onedim.R
+db487733ab1f080904e595c95af12577 *R/plot_onedim.R
 2d6b9d3cfafc51df249781578f8395f6 *R/plot_strip.R
 702ee061e8aa60f4a9f047a4fe96eb46 *R/plot_topology.R
 f4c53800d019b1609271b4533b8a92f1 *R/project_waypoints.R
@@ -32,7 +32,7 @@ ae4ee2e05289508c0394c649d24cd271 *data/example_bifurcating.rda
 4aa90b06c92a0ee836a5ec924bcc9090 *data/example_tree.rda
 9d8e86979796ce32228e1f1704c0cc31 *inst/doc/plotting-a-toy.R
 a3deab1a43ed36207680680e1db40106 *inst/doc/plotting-a-toy.Rmd
-1c743743a724663c447c68951230b2e3 *inst/doc/plotting-a-toy.html
+be0f01e042f869641ad69812a4b8b830 *inst/doc/plotting-a-toy.html
 6bb4fd197c6323461f212235454e314b *man/add_cell_coloring.Rd
 b81739131190d29ed61b00898bbae258 *man/add_density_coloring.Rd
 6e42157917983cd67dd5f5dfb63af201 *man/add_milestone_coloring.Rd
@@ -42,7 +42,7 @@ b81739131190d29ed61b00898bbae258 *man/add_density_coloring.Rd
 54d652c91a16da6af972841ae14160c7 *man/example_disconnected.Rd
 a48b7c509c6849a4e1078b649de98c4d *man/example_linear.Rd
 6c9841ffb00f1ade91383a47ed1be186 *man/example_tree.Rd
-8de0ef745e926c2d332550840509421e *man/figures/dendro-1.png
+87dfe6e44e56ef819a788c6aebb9a4eb *man/figures/dendro-1.png
 ada965f2b899f30948e1495d5daf96db *man/figures/dependencies.png
 2f269e711574e584d5c516e8f863c6e7 *man/figures/dimred-1.png
 cfef76bd279f72bbd47f9458c703c1dd *man/figures/graph-1.png
@@ -50,7 +50,7 @@ cfef76bd279f72bbd47f9458c703c1dd *man/figures/graph-1.png
 49767e84cd17a19d43a7376d6c0c2468 *man/figures/logo.png
 6a9f3ff67b80ccab50f1a0a8380f8639 *man/figures/logo.svg
 17387e8f1c874d9c457a0026e65e32a4 *man/figures/onedim-1.png
-2ee698b97a691a043c1a6f4c6889b70a *man/figures/scatterplot-1.png
+9f64d416ab1665e460053e07681b51b4 *man/figures/scatterplot-1.png
 5e733453f3b7dbe060be143779e9199c *man/get_milestone_palette_names.Rd
 3ccb02eb4de50f3ea991be16e939a574 *man/linearise_cells.Rd
 037d57dbcff0a36ccee07db339436cc8 *man/plot_dendro.Rd
